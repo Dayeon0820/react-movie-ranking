@@ -1,0 +1,33 @@
+.movieBox {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+.movieBox_column:last-child {
+  padding: 10px;
+  font-family: "Times New Roman", Times, serif;
+
+  border-radius: 20px;
+  width: 60%;
+}
+
+.movieBox_column:last-child p {
+  font-size: 21px;
+  padding: 10px 30px;
+  border-radius: 20px;
+}
+
+li {
+  font-size: 22px;
+  width: 70px;
+}
+.movieBox_column:first-child {
+  margin-right: 20px;
+}
+.title {
+  text-decoration: none;
+  font-size: 30px;
+  color: #16193c;
+}
