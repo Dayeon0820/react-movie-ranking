@@ -9,7 +9,7 @@ function Movie({ id, coverImg, title, summary, genres }) {
       </div>
       <div className={styles.movieBox_column}>
         <h2>
-          <Link className={styles.title} to={`movie/${id}`}>
+          <Link className={styles.title} to={`/movie/${id}`}>
             {title}
           </Link>
         </h2>
