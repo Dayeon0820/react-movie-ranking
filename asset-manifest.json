@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/very-first-react.git/static/css/main.3cf9b1ba.css",
+    "main.js": "/very-first-react.git/static/js/main.e1d646a6.js",
+    "index.html": "/very-first-react.git/index.html",
+    "main.3cf9b1ba.css.map": "/very-first-react.git/static/css/main.3cf9b1ba.css.map",
+    "main.e1d646a6.js.map": "/very-first-react.git/static/js/main.e1d646a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cf9b1ba.css",
+    "static/js/main.e1d646a6.js"
+  ]
+}
